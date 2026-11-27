@@ -3,7 +3,7 @@
 // cat, source, url (source article naming product, store and price), checked, group
 // (same product at several stores), verdict, note (verdict evidence).
 export const DEALS = [
-{
+  {
     "id": "d001",
     "name": "AirPods Pro 3",
     "store": "Amazon",
@@ -20,7 +20,7 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "Slickdeals: lowest price seen on a new pair since launch"
   },
-{
+  {
     "id": "d002",
     "name": "AirPods Pro 3",
     "store": "Walmart",
@@ -37,8 +37,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "Same $149 low at Walmart"
   },
-{
-    "id": "d004",
+  {
+    "id": "d003",
     "name": "Nintendo Switch 2 + Mario Kart World Bundle",
     "store": "Amazon",
     "sale": 499.0,
@@ -54,8 +54,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d005",
+  {
+    "id": "d004",
     "name": "Nintendo Switch 2 + Mario Kart World Bundle",
     "store": "Walmart",
     "sale": 499.0,
@@ -71,8 +71,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d006",
+  {
+    "id": "d005",
     "name": "Nintendo Switch 2 + Mario Kart World Bundle",
     "store": "Best Buy",
     "sale": 499.99,
@@ -88,8 +88,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d007",
+  {
+    "id": "d006",
     "name": "SwitchBot Bot (white)",
     "store": "Amazon",
     "sale": 23.99,
@@ -105,8 +105,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d008",
+  {
+    "id": "d007",
     "name": "Apple AirTag (2nd gen)",
     "store": "Amazon",
     "sale": 18.0,
@@ -122,8 +122,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d009",
+  {
+    "id": "d008",
     "name": "Apple AirTag (2nd gen)",
     "store": "Walmart",
     "sale": 18.0,
@@ -139,8 +139,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d010",
+  {
+    "id": "d009",
     "name": "Amazon Fire TV Stick 4K Plus",
     "store": "Amazon",
     "sale": 29.99,
@@ -156,8 +156,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d011",
+  {
+    "id": "d010",
     "name": "Amazon Fire TV Stick 4K Plus",
     "store": "Best Buy",
     "sale": 29.99,
@@ -173,8 +173,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d012",
+  {
+    "id": "d011",
     "name": "Sony WH-1000XM4C",
     "store": "Amazon",
     "sale": 198.0,
@@ -190,8 +190,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d013",
+  {
+    "id": "d012",
     "name": "Sony DualSense Wireless Controller",
     "store": "Amazon",
     "sale": 54.0,
@@ -207,8 +207,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d014",
+  {
+    "id": "d013",
     "name": "Sony DualSense Wireless Controller",
     "store": "Best Buy",
     "sale": 54.99,
@@ -224,8 +224,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d015",
+  {
+    "id": "d014",
     "name": "Apple Watch Series 12 (GPS, 42mm)",
     "store": "Amazon",
     "sale": 299.0,
@@ -241,8 +241,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d016",
+  {
+    "id": "d015",
     "name": "Apple Watch Series 12 (GPS, 42mm)",
     "store": "Walmart",
     "sale": 299.0,
@@ -258,8 +258,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d017",
+  {
+    "id": "d016",
     "name": "CMF Buds 2A (black)",
     "store": "Amazon",
     "sale": 17.89,
@@ -275,8 +275,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d018",
+  {
+    "id": "d017",
     "name": "Anker Universal Charger 100W (gray)",
     "store": "Amazon",
     "sale": 59.99,
@@ -292,8 +292,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d019",
+  {
+    "id": "d018",
     "name": "007 First Light (PS5)",
     "store": "PlayStation Store",
     "sale": 34.99,
@@ -309,8 +309,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d020",
+  {
+    "id": "d019",
     "name": "Fanttik S1 Pro Cordless Screwdriver",
     "store": "Amazon",
     "sale": 39.99,
@@ -326,8 +326,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d023",
+  {
+    "id": "d020",
     "name": "MacBook Neo (256GB)",
     "store": "Best Buy",
     "sale": 649.0,
@@ -343,8 +343,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d024",
+  {
+    "id": "d021",
     "name": "Anker 140W 2-in-1 USB-C Cable (4 ft)",
     "store": "Amazon",
     "sale": 14.24,
@@ -360,8 +360,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d025",
+  {
+    "id": "d022",
     "name": "Samsung microSD Express Card 256GB (Switch 2)",
     "store": "Amazon",
     "sale": 44.99,
@@ -377,8 +377,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d026",
+  {
+    "id": "d023",
     "name": "Nothing Ear 3A",
     "store": "Amazon",
     "sale": 69.0,
@@ -394,8 +394,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d027",
+  {
+    "id": "d024",
     "name": "Nothing Ear 3A",
     "store": "Walmart",
     "sale": 69.0,
@@ -411,8 +411,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d028",
+  {
+    "id": "d025",
     "name": "Ember Mug 3 (14 oz)",
     "store": "Amazon",
     "sale": 99.99,
@@ -428,8 +428,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d029",
+  {
+    "id": "d026",
     "name": "LG B6E OLED TV (55-inch)",
     "store": "Best Buy",
     "sale": 699.99,
@@ -445,8 +445,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d030",
+  {
+    "id": "d027",
     "name": "LG B6E OLED TV (65-inch)",
     "store": "Best Buy",
     "sale": 999.99,
@@ -462,8 +462,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d031",
+  {
+    "id": "d028",
     "name": "JBL Tour One M3",
     "store": "Amazon",
     "sale": 149.95,
@@ -479,8 +479,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d032",
+  {
+    "id": "d029",
     "name": "Hisense CanvasTV 55-inch (2026)",
     "store": "Amazon",
     "sale": 697.99,
@@ -496,8 +496,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d033",
+  {
+    "id": "d030",
     "name": "Hisense CanvasTV 55-inch (2026)",
     "store": "Best Buy",
     "sale": 699.99,
@@ -513,8 +513,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d034",
+  {
+    "id": "d031",
     "name": "Hisense CanvasTV 65-inch (2026)",
     "store": "Amazon",
     "sale": 897.99,
@@ -530,8 +530,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d035",
+  {
+    "id": "d032",
     "name": "Elegoo Centauri Carbon 2 Combo",
     "store": "Elegoo",
     "sale": 369.0,
@@ -547,8 +547,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d036",
+  {
+    "id": "d033",
     "name": "Moft Trackable Tripod Wallet",
     "store": "Amazon",
     "sale": 47.99,
@@ -564,8 +564,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d037",
+  {
+    "id": "d034",
     "name": "Govee Table Lamp 2",
     "store": "Amazon",
     "sale": 53.99,
@@ -581,8 +581,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d038",
+  {
+    "id": "d035",
     "name": "Birdfy Feeder Metal 2 4K",
     "store": "Amazon",
     "sale": 199.99,
@@ -598,8 +598,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d039",
+  {
+    "id": "d036",
     "name": "Bambu Lab P2S Combo",
     "store": "Bambu Lab",
     "sale": 649.0,
@@ -615,8 +615,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d040",
+  {
+    "id": "d037",
     "name": "Headspace (12 months)",
     "store": "Headspace",
     "sale": 34.99,
@@ -632,8 +632,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d041",
+  {
+    "id": "d038",
     "name": "Dreame X60 Ultra",
     "store": "Amazon",
     "sale": 999.99,
@@ -649,8 +649,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d043",
+  {
+    "id": "d039",
     "name": "Saros (PS5)",
     "store": "Best Buy",
     "sale": 39.99,
@@ -666,8 +666,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d044",
+  {
+    "id": "d040",
     "name": "Bose QuietComfort Headphones Gen 2",
     "store": "Amazon",
     "sale": 199.0,
@@ -683,8 +683,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d045",
+  {
+    "id": "d041",
     "name": "Garmin Forerunner 265S",
     "store": "Amazon",
     "sale": 299.99,
@@ -700,8 +700,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d046",
+  {
+    "id": "d042",
     "name": "Matic Robot Vacuum (Standard Bundle)",
     "store": "Matic",
     "sale": 1495.0,
@@ -717,8 +717,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d047",
+  {
+    "id": "d043",
     "name": "Azul Board Game",
     "store": "Amazon",
     "sale": 22.49,
@@ -734,8 +734,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d048",
+  {
+    "id": "d044",
     "name": "Eufy Omni C28 Robot Vacuum + Mop",
     "store": "Amazon",
     "sale": 379.99,
@@ -751,8 +751,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "The Verge: new low price of $379.99"
   },
-{
-    "id": "d049",
+  {
+    "id": "d045",
     "name": "Lego Mandalorian N-1 Starfighter",
     "store": "Amazon",
     "sale": 41.99,
@@ -768,8 +768,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d050",
+  {
+    "id": "d046",
     "name": "Nothing Headphone 1",
     "store": "Amazon",
     "sale": 169.0,
@@ -785,8 +785,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d054",
+  {
+    "id": "d047",
     "name": "TP-Link Tapo Smart Plug Mini",
     "store": "Amazon",
     "sale": 7.99,
@@ -802,8 +802,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d055",
+  {
+    "id": "d048",
     "name": "Google Pixel Buds 2a",
     "store": "Amazon",
     "sale": 99.0,
@@ -819,8 +819,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d056",
+  {
+    "id": "d049",
     "name": "Roku Pro Series 4K OLED TV (55-inch)",
     "store": "Amazon",
     "sale": 699.99,
@@ -836,8 +836,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d057",
+  {
+    "id": "d050",
     "name": "Alienware AW2726DM QD-OLED Monitor (27-inch)",
     "store": "Best Buy",
     "sale": 279.99,
@@ -853,8 +853,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "The Verge: selling at its lowest price yet"
   },
-{
-    "id": "d058",
+  {
+    "id": "d051",
     "name": "Alienware AW2726DM QD-OLED Monitor (27-inch)",
     "store": "Dell",
     "sale": 279.99,
@@ -870,8 +870,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d059",
+  {
+    "id": "d052",
     "name": "Soundcore Liberty 5 Pro",
     "store": "Amazon",
     "sale": 129.99,
@@ -887,8 +887,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d060",
+  {
+    "id": "d053",
     "name": "Yoto Mini (2024) Speaker",
     "store": "Amazon",
     "sale": 59.99,
@@ -904,8 +904,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d061",
+  {
+    "id": "d054",
     "name": "Resident Evil Requiem (PS5)",
     "store": "Amazon",
     "sale": 39.99,
@@ -921,8 +921,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d062",
+  {
+    "id": "d055",
     "name": "Beats Powerbeats Pro 2",
     "store": "Amazon",
     "sale": 179.95,
@@ -938,8 +938,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d063",
+  {
+    "id": "d056",
     "name": "Logitech G Pro X2 Superstrike",
     "store": "Amazon",
     "sale": 149.99,
@@ -955,8 +955,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d064",
+  {
+    "id": "d057",
     "name": "Nex Playground",
     "store": "Amazon",
     "sale": 209.0,
@@ -972,8 +972,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "The Verge: lowest price so far in 2026"
   },
-{
-    "id": "d065",
+  {
+    "id": "d058",
     "name": "Xteink X4 Classic Pocket E-Reader (black)",
     "store": "Amazon",
     "sale": 54.87,
@@ -989,8 +989,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d066",
+  {
+    "id": "d059",
     "name": "Oura Ring 5",
     "store": "Amazon",
     "sale": 299.0,
@@ -1006,8 +1006,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d067",
+  {
+    "id": "d060",
     "name": "Apple AirPods Max (2nd gen)",
     "store": "Amazon",
     "sale": 419.0,
@@ -1023,8 +1023,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d068",
+  {
+    "id": "d061",
     "name": "Govee Uplighter Floor Lamp",
     "store": "Amazon",
     "sale": 119.99,
@@ -1040,8 +1040,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d069",
+  {
+    "id": "d062",
     "name": "Meta Quest 3S (128GB)",
     "store": "Amazon",
     "sale": 297.0,
@@ -1057,8 +1057,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d070",
+  {
+    "id": "d063",
     "name": "The Legend of Zelda: Ocarina of Time (Switch 2, digital)",
     "store": "Amazon",
     "sale": 54.99,
@@ -1074,8 +1074,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d071",
+  {
+    "id": "d064",
     "name": "Kindle Paperwhite (2024, with ads)",
     "store": "Amazon",
     "sale": 129.99,
@@ -1091,8 +1091,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d072",
+  {
+    "id": "d065",
     "name": "Sonos Play",
     "store": "Amazon",
     "sale": 239.0,
@@ -1108,8 +1108,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d073",
+  {
+    "id": "d066",
     "name": "LIFX Everyday Smart Light Bulbs (2-pack)",
     "store": "Amazon",
     "sale": 9.98,
@@ -1125,8 +1125,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d074",
+  {
+    "id": "d067",
     "name": "Iniu P55-E2 Power Bank (10,000mAh)",
     "store": "Amazon",
     "sale": 21.24,
@@ -1142,8 +1142,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d075",
+  {
+    "id": "d068",
     "name": "Echo Dot Max",
     "store": "Amazon",
     "sale": 49.99,
@@ -1159,8 +1159,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d076",
+  {
+    "id": "d069",
     "name": "Donkey Kong Bananza (Switch 2)",
     "store": "Amazon",
     "sale": 49.99,
@@ -1176,8 +1176,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d077",
+  {
+    "id": "d070",
     "name": "Fanttik X9 Pro Portable Tire Inflator",
     "store": "Amazon",
     "sale": 39.99,
@@ -1193,8 +1193,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d078",
+  {
+    "id": "d071",
     "name": "Google Pixel 11 Pro (256GB)",
     "store": "Amazon",
     "sale": 749.0,
@@ -1210,8 +1210,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d079",
+  {
+    "id": "d072",
     "name": "Google Pixel 11 Pro (256GB)",
     "store": "Best Buy",
     "sale": 749.0,
@@ -1227,8 +1227,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d080",
+  {
+    "id": "d073",
     "name": "Catan (6th Edition)",
     "store": "Amazon",
     "sale": 24.99,
@@ -1244,8 +1244,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d081",
+  {
+    "id": "d074",
     "name": "Amazon Alexa Photo Frame (black)",
     "store": "Amazon",
     "sale": 114.99,
@@ -1261,8 +1261,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d082",
+  {
+    "id": "d075",
     "name": "Glocusent Bookmark Reading Light",
     "store": "Amazon",
     "sale": 10.49,
@@ -1278,8 +1278,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d083",
+  {
+    "id": "d076",
     "name": "Aqara Smart Lock U400 (black)",
     "store": "Amazon",
     "sale": 199.99,
@@ -1295,8 +1295,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d085",
+  {
+    "id": "d077",
     "name": "Roborock Qrevo Curv 2 Flow",
     "store": "Amazon",
     "sale": 549.99,
@@ -1312,8 +1312,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d086",
+  {
+    "id": "d078",
     "name": "Roborock Qrevo Curv 2 Flow",
     "store": "Best Buy",
     "sale": 599.99,
@@ -1329,8 +1329,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d087",
+  {
+    "id": "d079",
     "name": "Twelve South AirFly SE (white)",
     "store": "Amazon",
     "sale": 25.99,
@@ -1346,8 +1346,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d088",
+  {
+    "id": "d080",
     "name": "Kodak Charmera Keychain Camera",
     "store": "Amazon",
     "sale": 29.74,
@@ -1363,8 +1363,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d090",
+  {
+    "id": "d081",
     "name": "Wuben G5 Rechargeable Flashlight",
     "store": "Amazon",
     "sale": 18.39,
@@ -1380,8 +1380,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d091",
+  {
+    "id": "d082",
     "name": "JBL Go 4",
     "store": "Amazon",
     "sale": 31.95,
@@ -1397,8 +1397,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d092",
+  {
+    "id": "d083",
     "name": "HBO Max Basic with ads",
     "store": "HBO Max",
     "sale": 5.49,
@@ -1414,8 +1414,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d093",
+  {
+    "id": "d084",
     "name": "HBO Max Basic (annual)",
     "store": "HBO Max",
     "sale": 78.99,
@@ -1431,8 +1431,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d094",
+  {
+    "id": "d085",
     "name": "HBO Max Standard (annual)",
     "store": "HBO Max",
     "sale": 132.99,
@@ -1448,8 +1448,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d095",
+  {
+    "id": "d086",
     "name": "Peacock Premium",
     "store": "Peacock",
     "sale": 8.99,
@@ -1465,8 +1465,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d096",
+  {
+    "id": "d087",
     "name": "Peacock Select (annual)",
     "store": "Peacock",
     "sale": 29.99,
@@ -1482,8 +1482,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d097",
+  {
+    "id": "d088",
     "name": "Roborock Saros 20",
     "store": "Amazon",
     "sale": 989.0,
@@ -1499,8 +1499,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d098",
+  {
+    "id": "d089",
     "name": "Roborock F25 Steam-N",
     "store": "Amazon",
     "sale": 349.0,
@@ -1516,8 +1516,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d099",
+  {
+    "id": "d090",
     "name": "MacBook Air M5 (16GB/512GB)",
     "store": "Amazon",
     "sale": 1049.0,
@@ -1533,8 +1533,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d100",
+  {
+    "id": "d091",
     "name": "MacBook Air (13-inch, M5)",
     "store": "Best Buy",
     "sale": 1049.0,
@@ -1550,8 +1550,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d101",
+  {
+    "id": "d092",
     "name": "Reolink 4K 360° Floodlight Camera",
     "store": "Amazon",
     "sale": 184.0,
@@ -1567,8 +1567,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d102",
+  {
+    "id": "d093",
     "name": "Reolink Duo 3 Camera",
     "store": "Amazon",
     "sale": 137.0,
@@ -1584,8 +1584,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d103",
+  {
+    "id": "d094",
     "name": "Reolink OMVI Zoom X16 Camera",
     "store": "Amazon",
     "sale": 475.0,
@@ -1601,8 +1601,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d104",
+  {
+    "id": "d095",
     "name": "Hisense 65-inch Mini-LED 4K TV",
     "store": "Amazon",
     "sale": 529.0,
@@ -1618,8 +1618,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d105",
+  {
+    "id": "d096",
     "name": "Beats Solo 4",
     "store": "Amazon",
     "sale": 99.0,
@@ -1635,8 +1635,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d106",
+  {
+    "id": "d097",
     "name": "Beats Solo 4",
     "store": "Target",
     "sale": 79.99,
@@ -1652,8 +1652,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d107",
+  {
+    "id": "d098",
     "name": "LEGO Star Wars R2-D2 Set",
     "store": "Amazon",
     "sale": 79.0,
@@ -1669,8 +1669,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d108",
+  {
+    "id": "d099",
     "name": "Sony WH-1000XM6",
     "store": "Amazon",
     "sale": 348.0,
@@ -1686,8 +1686,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d109",
+  {
+    "id": "d100",
     "name": "PlayStation DualSense Edge Controller",
     "store": "Amazon",
     "sale": 169.0,
@@ -1703,8 +1703,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d110",
+  {
+    "id": "d101",
     "name": "Amazon Echo Spot",
     "store": "Amazon",
     "sale": 44.0,
@@ -1720,8 +1720,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d111",
+  {
+    "id": "d102",
     "name": "Hisense QD5 98-inch 4K Fire TV",
     "store": "Best Buy",
     "sale": 799.99,
@@ -1737,8 +1737,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d112",
+  {
+    "id": "d103",
     "name": "Hisense QD5 55-inch 4K Roku TV",
     "store": "Best Buy",
     "sale": 179.99,
@@ -1754,8 +1754,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d113",
+  {
+    "id": "d104",
     "name": "Apple Watch SE 3 (40mm GPS)",
     "store": "Amazon",
     "sale": 179.0,
@@ -1771,8 +1771,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "Slickdeals: lowest seen on this model at Amazon"
   },
-{
-    "id": "d114",
+  {
+    "id": "d105",
     "name": "Samsung Galaxy Watch 8 (40mm)",
     "store": "Amazon",
     "sale": 199.99,
@@ -1788,8 +1788,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "Slickdeals: beats the $209 Prime Day price"
   },
-{
-    "id": "d115",
+  {
+    "id": "d106",
     "name": "VIOFO A229 Plus Dash Cam",
     "store": "Amazon",
     "sale": 159.99,
@@ -1805,8 +1805,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d116",
+  {
+    "id": "d107",
     "name": "eufy SoloCam E42 4K Solar Camera",
     "store": "Amazon",
     "sale": 99.99,
@@ -1822,8 +1822,8 @@ export const DEALS = [
     "verdict": "NEW LOW",
     "note": "Slickdeals: $20 below its previous low"
   },
-{
-    "id": "d117",
+  {
+    "id": "d108",
     "name": "YETI Rambler 16-oz Travel Bottle",
     "store": "Amazon",
     "sale": 19.2,
@@ -1839,8 +1839,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d118",
+  {
+    "id": "d109",
     "name": "Nike Air Max Nuaxis (men's)",
     "store": "Amazon",
     "sale": 44.84,
@@ -1856,8 +1856,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d119",
+  {
+    "id": "d110",
     "name": "Wrangler Relaxed Fit Jeans",
     "store": "Walmart",
     "sale": 13.0,
@@ -1873,8 +1873,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d120",
+  {
+    "id": "d111",
     "name": "VIZIO 5.1 Dolby Atmos Soundbar",
     "store": "Walmart",
     "sale": 99.0,
@@ -1890,8 +1890,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d121",
+  {
+    "id": "d112",
     "name": "Apple Gift Card $100 + free $15 Best Buy e-gift card",
     "store": "Best Buy",
     "sale": 100.0,
@@ -1907,8 +1907,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": "$100 card plus a free $15 Best Buy e-gift card: $115 of value for $100"
   },
-{
-    "id": "d124",
+  {
+    "id": "d113",
     "name": "Keurig K-Express",
     "store": "Walmart",
     "sale": 35.0,
@@ -1924,8 +1924,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d128",
+  {
+    "id": "d114",
     "name": "Bose QuietComfort Headphones",
     "store": "Target",
     "sale": 169.99,
@@ -1941,8 +1941,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d129",
+  {
+    "id": "d115",
     "name": "Apple TV",
     "store": "Apple",
     "sale": 6.99,
@@ -1958,8 +1958,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": "50% off for six months"
   },
-{
-    "id": "d130",
+  {
+    "id": "d116",
     "name": "Paramount+ Premium",
     "store": "Paramount+",
     "sale": 2.99,
@@ -1975,8 +1975,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": "Every tier $2.99/month for two months"
   },
-{
-    "id": "d133",
+  {
+    "id": "d117",
     "name": "Frndly TV",
     "store": "Frndly TV",
     "sale": 0.99,
@@ -1992,8 +1992,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d137",
+  {
+    "id": "d118",
     "name": "Beats Studio Pro",
     "store": "Walmart",
     "sale": 99.0,
@@ -2009,8 +2009,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d139",
+  {
+    "id": "d119",
     "name": "Beats Solo Buds (Ivory)",
     "store": "Walmart",
     "sale": 34.0,
@@ -2026,8 +2026,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d140",
+  {
+    "id": "d120",
     "name": "Gourmia 8-Qt Digital Air Fryer",
     "store": "Walmart",
     "sale": 39.0,
@@ -2043,8 +2043,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d141",
+  {
+    "id": "d121",
     "name": "Ninja SLUSHi (96 oz)",
     "store": "Walmart",
     "sale": 169.0,
@@ -2060,8 +2060,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d142",
+  {
+    "id": "d122",
     "name": "GE Profile Mini Nugget Ice Maker",
     "store": "Walmart",
     "sale": 179.0,
@@ -2077,8 +2077,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d143",
+  {
+    "id": "d123",
     "name": "LEGO Creator 3-in-1 Red Panda",
     "store": "Walmart",
     "sale": 15.0,
@@ -2094,8 +2094,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d144",
+  {
+    "id": "d124",
     "name": "Shark PowerPro Cordless Stick Vacuum",
     "store": "Walmart",
     "sale": 136.0,
@@ -2111,8 +2111,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d145",
+  {
+    "id": "d125",
     "name": "Shark Detect Lift-Away Upright Vacuum",
     "store": "Walmart",
     "sale": 144.0,
@@ -2128,8 +2128,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d146",
+  {
+    "id": "d126",
     "name": "SaluSpa Monterey Inflatable Hot Tub (4-6 person)",
     "store": "Walmart",
     "sale": 228.0,
@@ -2145,8 +2145,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d147",
+  {
+    "id": "d127",
     "name": "Rubbermaid EasyStore 26-Piece Food Storage Set",
     "store": "Walmart",
     "sale": 8.0,
@@ -2162,8 +2162,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d148",
+  {
+    "id": "d128",
     "name": "Gabby's Dollhouse",
     "store": "Walmart",
     "sale": 25.0,
@@ -2179,8 +2179,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d149",
+  {
+    "id": "d129",
     "name": "Nintendo Action Figure 12-inch Mario",
     "store": "Walmart",
     "sale": 20.0,
@@ -2196,8 +2196,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d150",
+  {
+    "id": "d130",
     "name": "Tetris Tumble XL Stacking Game",
     "store": "Walmart",
     "sale": 50.0,
@@ -2213,8 +2213,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d151",
+  {
+    "id": "d131",
     "name": "LEGO Technic Hypercar (Absolut Grey)",
     "store": "Walmart",
     "sale": 24.99,
@@ -2230,8 +2230,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d152",
+  {
+    "id": "d132",
     "name": "LEGO Bluey: Bluey's Beach",
     "store": "Walmart",
     "sale": 15.0,
@@ -2247,8 +2247,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d153",
+  {
+    "id": "d133",
     "name": "onn 43-inch 1080p FHD Smart TV",
     "store": "Walmart",
     "sale": 89.0,
@@ -2264,8 +2264,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d154",
+  {
+    "id": "d134",
     "name": "Huffy 16-inch Sea Star Bike",
     "store": "Walmart",
     "sale": 54.0,
@@ -2281,8 +2281,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d155",
+  {
+    "id": "d135",
     "name": "Xbox Wireless Controller",
     "store": "Walmart",
     "sale": 49.0,
@@ -2298,8 +2298,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d156",
+  {
+    "id": "d136",
     "name": "JBL On-Ear Headphones",
     "store": "Walmart",
     "sale": 19.94,
@@ -2315,8 +2315,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d157",
+  {
+    "id": "d137",
     "name": "Apple Pencil (USB-C)",
     "store": "Walmart",
     "sale": 49.0,
@@ -2332,8 +2332,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d158",
+  {
+    "id": "d138",
     "name": "JLab Go Air Sport Earbuds",
     "store": "Walmart",
     "sale": 9.88,
@@ -2349,8 +2349,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d159",
+  {
+    "id": "d139",
     "name": "iHome 20L Towel Warmer",
     "store": "Walmart",
     "sale": 30.0,
@@ -2366,8 +2366,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d160",
+  {
+    "id": "d140",
     "name": "Protege 20-inch Carry-On Luggage",
     "store": "Walmart",
     "sale": 24.0,
@@ -2383,8 +2383,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d161",
+  {
+    "id": "d141",
     "name": "BHG Folding Rolling Tote",
     "store": "Walmart",
     "sale": 19.0,
@@ -2400,8 +2400,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d162",
+  {
+    "id": "d142",
     "name": "Blackstone 28-inch Original Griddle",
     "store": "Walmart",
     "sale": 150.0,
@@ -2417,8 +2417,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d163",
+  {
+    "id": "d143",
     "name": "Ninja Grand Kitchen System",
     "store": "Walmart",
     "sale": 84.0,
@@ -2434,8 +2434,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d164",
+  {
+    "id": "d144",
     "name": "Apple iPad 11-inch (A16)",
     "store": "Walmart",
     "sale": 379.0,
@@ -2451,8 +2451,8 @@ export const DEALS = [
     "verdict": "ROUTINE SALE",
     "note": null
   },
-{
-    "id": "d165",
+  {
+    "id": "d145",
     "name": "Perfection Board Game",
     "store": "Walmart",
     "sale": 10.0,
@@ -2468,8 +2468,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d166",
+  {
+    "id": "d146",
     "name": "Operation with Carrying Case",
     "store": "Walmart",
     "sale": 10.0,
@@ -2485,8 +2485,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d167",
+  {
+    "id": "d147",
     "name": "HP OmniBook 5 14-inch OLED Touchscreen",
     "store": "Best Buy",
     "sale": 449.99,
@@ -2502,8 +2502,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d168",
+  {
+    "id": "d148",
     "name": "Samsung Galaxy S26 FE",
     "store": "Best Buy",
     "sale": 499.99,
@@ -2519,8 +2519,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d169",
+  {
+    "id": "d149",
     "name": "TCL 65-inch 4K TV",
     "store": "Best Buy",
     "sale": 229.99,
@@ -2536,8 +2536,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d170",
+  {
+    "id": "d150",
     "name": "NBA 2K27 (PS5)",
     "store": "Target",
     "sale": 29.99,
@@ -2553,8 +2553,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d171",
+  {
+    "id": "d151",
     "name": "Lenovo Legion Pro 7i",
     "store": "B&H Photo",
     "sale": 3999.99,
@@ -2570,8 +2570,8 @@ export const DEALS = [
     "verdict": "GOOD DEAL",
     "note": null
   },
-{
-    "id": "d172",
+  {
+    "id": "d152",
     "name": "Gigabyte Z890 Aorus Master Motherboard",
     "store": "Newegg",
     "sale": 289.99,
@@ -2587,8 +2587,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d173",
+  {
+    "id": "d153",
     "name": "Samsung 9100 Pro 2TB SSD",
     "store": "Amazon",
     "sale": 349.99,
@@ -2604,8 +2604,8 @@ export const DEALS = [
     "verdict": "STRONG DEAL",
     "note": null
   },
-{
-    "id": "d174",
+  {
+    "id": "d154",
     "name": "Hisense H5R1 65-inch 4K Roku TV",
     "store": "Walmart",
     "sale": 228.0,
